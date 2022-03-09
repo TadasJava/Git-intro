@@ -3,3 +3,4 @@
 -basic comands
 -ading html and css file
 -pridejimas 
+-dar vienas
